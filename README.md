@@ -21,7 +21,7 @@ This website has been deployed, see screenshot and link below.
 
 ## Link
 
-https://hasan0412.github.io/Horiseon-Assignment/ 
+https://hasan0412.github.io/Web-Services-by-Horiseon/ 
  
 ## Reference
 
