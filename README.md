@@ -1,10 +1,10 @@
-# Week 1 Task Horiseon
+# Web Services by Horiseon
 
 This is the homepage for Horiseon.
 
 ## Description
 
-This Week 1 Task includes the following changes to the Horiseon website:
+This Task includes the following changes to the Horiseon website:
 - Semantic HTML element added
 - The elements now follow a logical structure independent of styling and positioning
 - The images now have accesible alt attributes
